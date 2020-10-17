@@ -11,7 +11,7 @@ function Modal() {
     return (
         <div className={showHideClassName}>
             <div className="mainmodal">
-                <div class="modal-content">
+                <div className="modal-content">
                     <p>{message}</p>
                 </div>
             </div>
