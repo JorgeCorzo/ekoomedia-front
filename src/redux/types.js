@@ -1,0 +1,4 @@
+export const START_SET_USER = 'START_SET_USER';
+export const SUCCESS_SET_USER = 'SUCCESS_SET_USER';
+export const FINISH_SET_USER = 'FINISH_SET_USER';
+export const FAIL_SET_USER = 'FAIL_SET_USER';
